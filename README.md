@@ -1,1 +1,4 @@
-# lab3-saas
+# Lab 3
+
+Learning GitHub SaaS Platform.
+
